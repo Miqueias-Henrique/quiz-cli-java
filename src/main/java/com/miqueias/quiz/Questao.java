@@ -5,9 +5,6 @@ import java.util.EnumMap;
 import java.util.Map;
 import java.util.Objects;
 
-/**
- * Modelo imutável de uma questão de múltipla escolha com 5 alternativas (A–E).
- */
 public record Questao(
         String enunciado,
         Map<Alternativa, String> opcoes,

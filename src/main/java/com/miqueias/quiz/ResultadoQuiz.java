@@ -1,8 +1,5 @@
 package com.miqueias.quiz;
 
-/**
- * Representa o resultado consolidado de uma execução do quiz.
- */
 public record ResultadoQuiz(int totalQuestoes, int acertos) {
 
     public ResultadoQuiz {

@@ -2,9 +2,6 @@ package com.miqueias.quiz;
 
 import java.util.List;
 
-/**
- * Fornece o conjunto de questões do quiz sobre Freakazoid!.
- */
 public final class BancoDeQuestoes {
 
     private BancoDeQuestoes() {

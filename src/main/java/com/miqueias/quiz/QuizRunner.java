@@ -7,9 +7,6 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.Scanner;
 
-/**
- * Orquestra a execução interativa do quiz no terminal.
- */
 public class QuizRunner {
 
     private static final Locale LOCALE_PT_BR = Locale.forLanguageTag("pt-BR");
